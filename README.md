@@ -1,15 +1,14 @@
 # 🤖 CodeClauseInternship_Tic-Tac-Toe AI Game
----
+
 
 A simple terminal-based Tic-Tac-Toe game built using Python, where you can play against an AI opponent. The project is part of my internship at **CodeClause**.
 
----
 
 ## 🎯 Project Aim
 
 To develop a basic AI that plays the game of Tic-Tac-Toe against a human, implementing strategic decision-making and game logic in Python.
 
----
+
 
 ## 🛠️ Technologies Used
 
@@ -17,7 +16,7 @@ To develop a basic AI that plays the game of Tic-Tac-Toe against a human, implem
 - CLI (Command-Line Interface)
 - Optional: `random` module for AI logic
 
----
+
 
 ## 🎮 Features
 
@@ -27,7 +26,7 @@ To develop a basic AI that plays the game of Tic-Tac-Toe against a human, implem
 - Turn-by-turn status update.
 - Detects win, draw, or invalid moves.
 
----
+
 
 ## 📁 How to Run
 
@@ -60,3 +59,7 @@ Enter your move (1-9):
    
 </pre>
 ---
+## 🙋‍♂️ Made By
+Raman Kumar
+Intern @ CodTech AI Internship
+Batch: July 2025
