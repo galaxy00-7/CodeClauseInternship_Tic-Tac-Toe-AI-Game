@@ -60,6 +60,6 @@ Enter your move (1-9):
 </pre>
 ---
 ## 🙋‍♂️ Made By
-Raman Kumar
-Intern @ CodTech AI Internship
-Batch: July 2025
+Raman Kumar  
+Intern @ CodTech AI Internship  
+Batch: July 2025  
