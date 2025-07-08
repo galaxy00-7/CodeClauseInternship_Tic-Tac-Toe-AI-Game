@@ -1,4 +1,4 @@
-# 🤖 Tic-Tac-Toe AI Game
+# 🤖 CodeClauseInternship_Tic-Tac-Toe AI Game
 
 A simple terminal-based Tic-Tac-Toe game built using Python, where you can play against an AI opponent. The project is part of my internship at **CodeClause**.
 
