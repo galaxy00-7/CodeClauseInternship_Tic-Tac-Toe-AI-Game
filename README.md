@@ -61,5 +61,5 @@ Enter your move (1-9):
 ---
 ## 🙋‍♂️ Made By
 Raman Kumar  
-Intern @ CodTech AI Internship  
+Intern @ CodeClause AI Internship  
 Batch: July 2025  
