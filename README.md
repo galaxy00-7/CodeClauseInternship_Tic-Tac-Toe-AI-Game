@@ -33,7 +33,7 @@ To develop a basic AI that plays the game of Tic-Tac-Toe against a human, implem
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/galaxy00-7/CodeClauseInternship_Tic-Tac-Toe-AI-Game.git
+git clone https://github.com/raman00-7/CodeClauseInternship_Tic-Tac-Toe-AI-Game.git
 ```
 ```bash
 cd CodeClauseInternship_Tic-Tac-Toe-AI-Game
